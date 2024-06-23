@@ -1,6 +1,6 @@
 # vk_comments
 
-This repository contains a prototype system for automatic summarization of comments in VK (VKontakte). The system monitors your Telegram chat for VK post links, collects comments from those posts, and sends them to a GPT bot for generating a concise summary. This helps quickly grasp the main points of discussions.
+This repository contains a prototype system for automatic summarization of comments in VK (VKontakte). The system (userbot) monitors your Telegram chat for VK post links, collects comments from those posts, and sends them to a GPT bot for generating a concise summary. This helps quickly grasp the main points of discussions.
 
 ## Introduction
 
